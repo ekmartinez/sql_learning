@@ -89,9 +89,9 @@ INNER JOIN orders ON customers.CustomerID = orders.CustomersID;
 
 Summary:
 
-    1. SELECT Statement: Used to retrieve data from a table.
-    2. FROM Clause: Specifies the table from which to retrieve data.
-    3. WHERE Clause: Filters records based on specified conditions.
-    4. HAVING Clause: Filters records after aggregation, typically used with GROUP BY.
-    5. JOINS: Combines rows from two or more tables based on related columns.
+1. SELECT Statement: Used to retrieve data from a table.
+2. FROM Clause: Specifies the table from which to retrieve data.
+3. WHERE Clause: Filters records based on specified conditions.
+4. HAVING Clause: Filters records after aggregation, typically used with GROUP BY.
+5. JOINS: Combines rows from two or more tables based on related columns.
 
